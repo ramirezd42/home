@@ -1,0 +1,5 @@
+config/.storage
+config/.cloud
+config/secrets.yaml
+config/home-assistant_v2.db
+config/home-assistant.log
